@@ -13,10 +13,12 @@
     <list default="true" id="2262b929-10d7-4ebc-a17a-423e8e56741c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project (2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project (2)/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/world.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/world.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Health/Healthbar.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Health/Healthbar.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/wal.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/wal.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Character/player/Enchantress/Enchantress_normi/Dead.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Character/player/Enchantress/Enchantress_normi/Dead.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/animations/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Player.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/die.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/die.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/hurt.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/hurt.anim" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +120,7 @@
       <workItem from="1777457262579" duration="2360000" />
       <workItem from="1777466865007" duration="4250000" />
       <workItem from="1777473468300" duration="2242000" />
-      <workItem from="1777523860798" duration="17431000" />
+      <workItem from="1777523860798" duration="20027000" />
     </task>
     <servers />
   </component>
