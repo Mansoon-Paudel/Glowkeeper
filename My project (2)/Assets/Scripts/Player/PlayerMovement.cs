@@ -77,7 +77,7 @@ public class PlayerMovement : MonoBehaviour
         _anim.SetBool(RunHash, Mathf.Abs(_horizontalInput) > 0.01f);
         _anim.SetBool(GroundedHash, grounded);
         _anim.SetBool("Onwall", touchingWall && !grounded);
-        if (touchingWall && !grounded && OnWall())
+        if (touchingWall && !grounded )
         {
             _anim.SetTrigger("Wall");
         }

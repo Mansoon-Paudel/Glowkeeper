@@ -12,13 +12,33 @@
   <component name="ChangeListManager">
     <list default="true" id="2262b929-10d7-4ebc-a17a-423e8e56741c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project (2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project (2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free/Traps/Fire/Hit (16x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Free/Traps/Fire/Hit (16x32).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free/Traps/Fire/Off.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Free/Traps/Fire/Off.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free/Traps/Fire/On (16x32).png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Free/Traps/Fire/On (16x32).png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Free/Traps/Spikes/Idle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Free/Traps/Spikes/Idle.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fireball.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Fireball.prefab.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/world.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/world.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/wal.anim" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/wal.anim.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Character/player/Enchantress/Enchantress_normi/Dead.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Character/player/Enchantress/Enchantress_normi/Dead.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Attack.anim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Attack.anim.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Door.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Door.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy_Sideways.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy_Sideways.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Health/Health.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Health/Health.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerAttack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerAttack.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Projectile.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Character/player/Enchantress/Enchantress_normi/Attack_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Character/player/Enchantress/Enchantress_normi/Attack_1.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/animations/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Player.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/die.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/die.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/hurt.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/hurt.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/Traps/Saw/Saw.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Traps/Saw/Saw.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/wal.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/wal.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +54,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerMovement.cs.meta" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/animations/Idle.anim" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="McpProjectServerCommands">
@@ -120,7 +140,8 @@
       <workItem from="1777457262579" duration="2360000" />
       <workItem from="1777466865007" duration="4250000" />
       <workItem from="1777473468300" duration="2242000" />
-      <workItem from="1777523860798" duration="20027000" />
+      <workItem from="1777523860798" duration="21079000" />
+      <workItem from="1777615051421" duration="9210000" />
     </task>
     <servers />
   </component>
