@@ -11,16 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2262b929-10d7-4ebc-a17a-423e8e56741c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/RangedEnemy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/RangedEnemy.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.My project (2)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project (2)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Enemy/MeleeEnemy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Enemy/MeleeEnemy.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/world.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/world.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/MeleeEnemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/MeleeEnemy.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Health/Health.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Health/Health.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Traps/EnemyProjectile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Traps/EnemyProjectile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Enemy/Enemy.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Enemy/Enemy.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Enemy/MeleeAttack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Enemy/MeleeAttack.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/animations/Enemy/RangedAttack.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Enemy/RangedAttack.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/animations/Enemy/Die.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/animations/Enemy/Die.anim" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +121,8 @@
       <workItem from="1777615051421" duration="11305000" />
       <workItem from="1777641429457" duration="6592000" />
       <workItem from="1777699132173" duration="21713000" />
-      <workItem from="1777735401357" duration="751000" />
+      <workItem from="1777735401357" duration="860000" />
+      <workItem from="1777783106644" duration="694000" />
     </task>
     <servers />
   </component>
